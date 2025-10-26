@@ -2,6 +2,11 @@
 
 This project demonstrates theoretical and practical understanding of popular AI frameworks and tools.
 
+BY: Ikyumeh, Veronica
+    Ibrahim, Sawaneh
+    Washington, Mwangi
+    Casper, Ashimala
+
 ---
 
 ## 📂 Project Structure
